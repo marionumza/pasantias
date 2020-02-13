@@ -5,5 +5,5 @@
 * Item 1
 * Item 2
 * Item n..
-### Pruebas realiadas, Problematicas y Soluciones
+### Pruebas realizadas, Problematicas y Soluciones
 
