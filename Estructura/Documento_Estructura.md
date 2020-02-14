@@ -16,3 +16,54 @@ es donde estará la parte más larga de su documento. Acá es donde usted descri
 ¿cómo le fue? ¿En qué formas fue usted exitoso en su proyecto, y dónde las cosas fallaron o se presentaron resultados diferentes a los que esperaba? ¿Hay consideraciones económicas o de negocios? Aquí usted necesita ser crítico con su propio trabajo y su análisis debe ser una parte importante de su documento.
 ## Conclusiones finales: 
 ¿cuál es el lugar de su proyecto en el mundo del diseño (o en otros campos con los que se pueda intersectar)? Y, si usted pudiera continuar trabajando en él, ¿cuáles serían sus pasos siguientes?
+
+
+# Estructura del documento de proyecto
+## Introducción
+
+* Sitúe su tema
+ * Tema de proyecto
+ * Su teoría general y su hipótesis de proyecto
+ * Concepto
+* Descripción general del proceso del proyecto y alcances esperados.
+* Referencia al capítulo de Investigación del estado del arte (Background research)
+ * Describa trabajos previos e investigaciones y cómo su proyecto aporta en el área.
+ ## Estado del arte (background research)
+
+* Teorías, proyectos y actores importantes
+ * ¿Por qué son importantes para el proyecto?
+ * ¿Cómo se enmarca el proyecto en este escenario?
+## Desarrollo del concepto, razonamiento y contexto
+
+* ¿Cómo entendió el contexto en el que se inserta su proyecto?
+ * ¿Investigación de usuarios?
+ * ¿Inmersión en un contexto?
+ * ¿Escenarios?
+ * ¿Derivas?
+ * ¿Metodología y aproximación?
+ * ¿Prototipos iniciales?
+## Diseño e implementación
+
+* De manera general: ¿qué fue lo que diseñó?
+* Desarrollo del diseño: Experimentos y demos: haciendo claridad en qué fue lo que diseñó y por qué. Dependiendo de la relevancia, puede incluir las iteraciones que sean necesarias para exponer claramente el proceso. [incluya información extra en el apéndice]
+ * Fotos/ilustraciones/capturas de pantalla (donde aplique)
+ * Código (si aplica)
+ * Esquemáticos (si aplica)
+ * Pruebas (si aplica)
+ ## Evaluación y Análisis
+
+* Evaluación y análisis
+* ¿Cómo le fue en la exploración del tema/pregunta de proyecto que usted decidió examinar?
+* ¿Dónde obtuvo éxito y como?
+* ¿Dónde no fue exitoso? ¿Qué falló?, ¿por qué y cómo pudo haber sido diferente?
+* ¿Cómo puede esto ser posible en términos de negocios o económicos?, ¿consideracioes ambientales?
+* Hallazgos importantes
+## Conclusiones finales
+
+* Lugar del proyecto en el diseño (y otros campos)
+* Pasos siguientes – Si usted sigue trabajando en esto, ¿qué haría enseguida?
+* Material final
+
+## Referencias
+* Bibliografía
+* Apéndices
