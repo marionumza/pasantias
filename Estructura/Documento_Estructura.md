@@ -3,7 +3,6 @@
 A continuación usted encontrará la estructura del documento de un proyecto. Es posible que al escribir el documento final, algunas partes se hayan construido a lo largo del desarrollo del proyecto y se puedan integrar a esta estructura, sin embargo es fundamental revisar cómo se integran para garantizar la claridad y coherencia del documento. A continuación se presenta una clarificación de cada sección.
 
 ## Resumen (Abstract):
-.. code::
 ~~
 un solo párrafo sencillo y conciso de 3-5 oraciones que expliquen su proyecto claramente.
 ~~
