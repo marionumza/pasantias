@@ -3,6 +3,7 @@
 A continuación usted encontrará la estructura del documento de un proyecto. Es posible que al escribir el documento final, algunas partes se hayan construido a lo largo del desarrollo del proyecto y se puedan integrar a esta estructura, sin embargo es fundamental revisar cómo se integran para garantizar la claridad y coherencia del documento. A continuación se presenta una clarificación de cada sección.
 
 ## Resumen (Abstract):
+la propuesta de este proyecto es lograr colocar un sistema de intercomunicación y un botón que puede servir tanto para activar el pánico como para abrir la comunicación en la red de cámaras de videovigilancia para la Provincia de Mendoza
 ~~~~~
 un solo párrafo sencillo y conciso de 3-5 oraciones que expliquen su proyecto claramente.
 ~~~~~
