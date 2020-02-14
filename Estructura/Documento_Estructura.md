@@ -3,12 +3,19 @@
 A continuación usted encontrará la estructura del documento de un proyecto. Es posible que al escribir el documento final, algunas partes se hayan construido a lo largo del desarrollo del proyecto y se puedan integrar a esta estructura, sin embargo es fundamental revisar cómo se integran para garantizar la claridad y coherencia del documento. A continuación se presenta una clarificación de cada sección.
 
 ## Resumen (Abstract):
-la propuesta de este proyecto es lograr colocar un sistema de intercomunicación y un botón que puede servir tanto para activar el pánico como para abrir la comunicación en la red de cámaras de videovigilancia para la Provincia de Mendoza
+La propuesta de este proyecto es lograr colocar un sistema de intercomunicación y un botón que puede servir tanto para activar el pánico como para abrir la comunicación en la red de cámaras de videovigilancia para la Provincia de Mendoza
 ~~~~~
 un solo párrafo sencillo y conciso de 3-5 oraciones que expliquen su proyecto claramente.
 ~~~~~
-## Introducción: 
+## Introducción:
+Como objetivo principal se plantea la posibilidad de instalar un sistema de intercomunicación que acompañe al sistema de cámaras de videovigilancia de la Provincia de Mendoza para darle al ciudadano de a pie la posibilidad de comunicarse con un operador de la policia en caso de emergencia o pedido de auxilio. La idea es brindar este tipo de soporte suponiendo en este caso que el ciudadano no cuenta en ese momento con un medio de comunicación. En el caso de celulares personales, los motivos podrían ser los siguientes:
+* Podria no llevarlo en ese momento
+* Podria estar sin batería
+* Podria pedir ayuda por que en ese momento le robaron su equipo
+Como se puede apreciar, son muchos los motivos por los cuales el ciudadano podria utilizar el sistema de intercomunicación implementado en la cámara de vigilancia, en el caso de que pase justo por una cámara que tuviera implementado dicho sistema.
+~~~~~
 esta introduce su tópico del proyecto y las preguntas claves que usted exploró. Usted debe re-visitar su trabajo de investigación preliminar o estado del arte (background) y trabajar en esta sección, adicionando otros proyectos, recursos o teoría que haya consultado y le haya dado los fundamentos de su trabajo. Si en algún punto del desarrollo de su proyecto se presenta un trabajo en colaboración con otro proyecto, éste trabajo conjunto debe especificarse claramente. También debe especificarse el trabajo conjunto en el caso en el que todo el trabajo haya sido realizado por un grupo. Si su proyecto tiene un proyecto de acompañamiento (que debe ser referenciado para posicionar su tema), esto también se debe presentar aquí.
+~~~~~
 ## Estado del arte (Background research):
 es un recorrido por otros proyectos, recursos o teorías que haya consultado y que sirvieron de soporte para construir los fundamentos de su trabajo. Es importante que sea una aproximación crítica a estos trabajos, es decir que más allá de describirlos se haga una reflexión sobre los elementos importantes que estos presentan para su proyecto, esto le ayuda a posicionar su proyecto.
 ## Desarrollo de Concepto: 
