@@ -3,9 +3,9 @@
 A continuación usted encontrará la estructura del documento de un proyecto. Es posible que al escribir el documento final, algunas partes se hayan construido a lo largo del desarrollo del proyecto y se puedan integrar a esta estructura, sin embargo es fundamental revisar cómo se integran para garantizar la claridad y coherencia del documento. A continuación se presenta una clarificación de cada sección.
 
 ## Resumen (Abstract):
-~~
+~~~~~
 un solo párrafo sencillo y conciso de 3-5 oraciones que expliquen su proyecto claramente.
-~~
+~~~~~
 ## Introducción: 
 esta introduce su tópico del proyecto y las preguntas claves que usted exploró. Usted debe re-visitar su trabajo de investigación preliminar o estado del arte (background) y trabajar en esta sección, adicionando otros proyectos, recursos o teoría que haya consultado y le haya dado los fundamentos de su trabajo. Si en algún punto del desarrollo de su proyecto se presenta un trabajo en colaboración con otro proyecto, éste trabajo conjunto debe especificarse claramente. También debe especificarse el trabajo conjunto en el caso en el que todo el trabajo haya sido realizado por un grupo. Si su proyecto tiene un proyecto de acompañamiento (que debe ser referenciado para posicionar su tema), esto también se debe presentar aquí.
 ## Estado del arte (Background research):
